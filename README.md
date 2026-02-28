@@ -13,8 +13,8 @@
 <h1 align="center">👋 Hi, I'm niuzhix</h1>
 
 <p align="center">
-  🎓 A middle school developer passionate about simulation systems and real-world tools.<br/>
-  💻 Focused on C#/.NET, desktop UI (WPF/WinUI 3), Python Application and OI compition.<br/>
+  🎓 A middle school developer passionate about individual study tools.<br/>
+  💻 Focused on C#/.NET, desktop UI (WinUI 3), Python Application and OI compition.<br/>
   🌏 Open-source enthusiast building tools that are <b>practical, educational, and extensible</b>.
 </p>
 
@@ -25,7 +25,7 @@
 ###  [NPassword](https://github.com/niuzhix/NPassword)
 > *A full-featured simulation platform for Chinese railway information displays.*
 
-- 🎯 Make your password as unsolvable as an NP Problem
+- 🎯 Make you feel foucsable in your study.
 - 🧱 Built with .NET 10 preview, WinUI, and XAML
 
 ---
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Visual%20Studio%20Code20%7C%20Git-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20%7C%20Visual%20Studio%20Code%20%7C%20Git-lightgrey?style=flat-square" />
 </p>
 
 ---
